@@ -3,6 +3,16 @@
     <keyboard-shortcut first-keystroke="subtract" />
     <keyboard-shortcut first-keystroke="shift minus" />
   </action>
+  <action id="EditorChooseLookupItemDot" />
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
