@@ -1,6 +1,0 @@
-<keymap version="1" name="Mac OS X copy 0" parent="Mac OS X">
-  <action id="EditorSelectLine">
-    <keyboard-shortcut first-keystroke="meta l" />
-  </action>
-  <action id="Vcs.Log.FocusTextFilter" />
-</keymap>
