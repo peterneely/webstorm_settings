@@ -26,7 +26,6 @@
   </action>
   <action id="MethodHierarchy" />
   <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="shift meta h" />
   </action>
   <action id="SwitchApply">
